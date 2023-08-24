@@ -1,1 +1,1 @@
-This project is about a recipies website.
+This project is about a recipes website.
